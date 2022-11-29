@@ -6,3 +6,5 @@ https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v
 slide: https://atcold.github.io/pytorch-Deep-Learning/  
 3. Neural Networks: Zero to Hero  
 https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+4. Stanford uni Machine Learning with Graphs:
+https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
